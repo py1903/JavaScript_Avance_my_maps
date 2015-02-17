@@ -1,0 +1,49 @@
+#map { 
+	height: 600px; 
+	margin: 0 auto; 
+	padding-top: 50px;
+	width: 800px;
+	border-radius: 13px;
+	margin-top: 15px;
+}
+body, html{
+	background:url('planete.png') no-repeat center center fixed;
+	background-size: cover;
+}
+.search{
+	width:200px;
+	margin-left: 800px;
+}
+
+#panel{
+	float: left;
+	width: 900px;
+}
+
+.container{
+	margin-left: 50px;
+	width: 800px;
+	height: 600px;
+	margin-left: 550px;
+	margin-top: -50px;
+}
+
+.adp{
+	height: 650px;
+	width: 1084px;
+	overflow: auto;
+	margin-top: 15px;
+}
+
+#middle{
+	text-align: center;
+	color: white;
+}
+
+.adp-substep{
+	color: white;
+}
+
+.adp-summary{
+	color: white;
+}
